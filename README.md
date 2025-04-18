@@ -5,7 +5,7 @@ Numpy for Python
 Installation
 
 Step 1
-python -m venv .venv
+python3 -m venv .venv
 
 source .venv/bin/activate
 
